@@ -24,3 +24,4 @@ This task helped me improve my skills in layout management, component design, an
 
 ## OUTPUT
 
+<img width="947" height="841" alt="Image" src="https://github.com/user-attachments/assets/4c315868-b757-4bb4-b9c0-37c392e7ff5b" />
